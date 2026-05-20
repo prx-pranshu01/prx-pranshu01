@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 # 👋 Hey, I'm Pranshu Sahu
 
@@ -30,6 +30,7 @@
 - Backend Architecture
 
 🎯 Goal:
+
 > Build impactful products that solve real-world problems.
 
 ---
@@ -42,15 +43,15 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/pranshusahu01/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:2300031657cseelge@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+<a href="https://www.instagram.com/prx_pranshu01/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -110,8 +111,6 @@
 
 ---
 
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
@@ -160,10 +159,9 @@
 
 <div align="center">
 
-```txt
-⚡ Building Full Stack Applications
-⚡ Learning AI Integration
-⚡ Improving DSA & System Design
-⚡ Contributing to Open Source -->
+⚡ Building Full Stack Applications  
+⚡ Learning AI Integration  
+⚡ Improving DSA & System Design  
+⚡ Contributing to Open Source  
 
-
+</div>
