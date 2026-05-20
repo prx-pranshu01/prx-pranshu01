@@ -1,145 +1,167 @@
 <div align="center">
 
-# Hey 👋, I'm Pranshu
+# 👋 Hey, I'm Pranshu Sahu
 
-### Full Stack Developer • MERN Stack • AI Enthusiast
+### Full Stack Developer | MERN Stack Developer | AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Open+Source+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+Open+Source+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=prx-pranshu01&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-💻 Passionate Full Stack Developer focused on building scalable and modern web applications.
+💻 Passionate Full Stack Developer focused on building scalable, responsive, and modern web applications.
 
-🌱 Currently learning:
+🌱 Currently Learning:
 - Advanced MERN Stack
-- AI Integration in Web Apps
-- System Design & Cloud
+- AI Integration in Web Applications
+- System Design & Cloud Computing
 
-⚡ Love working on:
-- Real-time Applications
+⚡ Interested In:
+- Real-Time Applications
 - AI Powered Platforms
-- Open Source Projects
+- Open Source Contributions
+- Backend Architecture
 
 🎯 Goal:
-Build impactful products that solve real-world problems.
+> Build impactful products that solve real-world problems.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/prx-pranshu01">
-<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
+<div align="center">
+
+<a href="https://github.com/prx-pranshu01" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/yourusername">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-</p>
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
-### 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css" />
-</p>
-
-### ⚛️ Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-</p>
-
-### 🛠 Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
-</p>
-
-### 🗄 Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### ☁️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,aws,docker,vscode" />
-</p>
-
----
-
-# 📊 GitHub Stats
+## 🚀 Languages
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prx-pranshu01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prx-pranshu01&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prx-pranshu01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css&theme=dark" />
 
 </div>
 
 ---
+
+## ⚛️ Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap&theme=dark" />
+
+</div>
+
+---
+
+## 🛠 Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" />
+
+</div>
+
+---
+
+## 🗄 Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+
+</div>
+
+---
+
+## ☁️ Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,aws,docker,vscode&theme=dark" />
+
+</div>
+
+---
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prx-pranshu01&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prx-pranshu01&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+</div>
 
 ---
 
 # 🏆 Coding Profiles
 
-<p align="left">
+<div align="center">
 
-<a href="https://leetcode.com/yourusername/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+<a href="https://leetcode.com/YOUR-USERNAME/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
-<a href="https://www.codechef.com/users/yourusername">
-<img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+<a href="https://www.codechef.com/users/YOUR-USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
-<a href="https://www.hackerrank.com/yourusername">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<a href="https://www.hackerrank.com/YOUR-USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/yourusername">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://auth.geeksforgeeks.org/user/YOUR-USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prx-pranshu01&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/prx-pranshu01/prx-pranshu01/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
+# 📌 Current Focus
 
 <div align="center">
 
-### ✨ "Code. Learn. Build. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=prx-pranshu01&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
+```txt
+⚡ Building Full Stack Applications
+⚡ Learning AI Integration
+⚡ Improving DSA & System Design
+⚡ Contributing to Open Source
