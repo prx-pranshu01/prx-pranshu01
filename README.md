@@ -135,19 +135,19 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR-USERNAME/" target="_blank">
+<a href="https://leetcode.com/u/KLU2300031567/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
-<a href="https://www.codechef.com/users/YOUR-USERNAME" target="_blank">
+<a href="https://www.codechef.com/users/klu_2300031657" target="_blank">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
-<a href="https://www.hackerrank.com/YOUR-USERNAME" target="_blank">
+<a href="https://www.hackerrank.com/profile/h2300031657" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/YOUR-USERNAME" target="_blank">
+<a href="https://www.geeksforgeeks.org/profile/02004prvutw" target="_blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
